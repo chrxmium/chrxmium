@@ -10,6 +10,6 @@ cynical vlan user
 audiophile
 love linux
 
-senior_team@UNSW-EMU-Robotics
-head_developer@Metropolitan-Police-Service
+senior_team@UNSW-EMU-Robotics  
+head_developer@Metropolitan-Police-Service  
 founding@Bytesize
