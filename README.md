@@ -5,10 +5,13 @@ i mostly code as a hobby as i'm into networking, not CS, and am super shit at wh
 
 ex- AI training general specialist at Outlier AI
 
-special interest - AI/ML - ask me questions!!
-cynical vlan user
-audiophile
-love linux
+special interests:
+AI/ML  
+ARGs  
+
+cynical vlan user  
+audiophile  
+live laugh love linux  
 
 senior_team@UNSW-EMU-Robotics  
 head_developer@Metropolitan-Police-Service  
